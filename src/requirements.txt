@@ -1,0 +1,4 @@
+PyAudio==0.2.11
+numpy==1.21.5
+redis==4.1.0
+opencv-contrib-python==4.5.5.62
